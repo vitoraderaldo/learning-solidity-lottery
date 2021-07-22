@@ -22,6 +22,7 @@ const deploy = async () => {
         from: accounts[0], 
         gas: '1000000'
     })
+    console.log(interface)
     console.log(`The contract was deployed at: ${deployedContract.options.address}`)
 }
 

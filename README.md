@@ -40,25 +40,3 @@ $ mnemonic='' etherum_api='' node deploy.js
 ```
 
 After that, you will see the address where this contract was deployed. You can use https://rinkeby.etherscan.io/ to monitor every transaction made on that contract.
-
-## React Application
-
-### Folder Structure  
-
-| Path | Description |
-| ------ | ------ |
-||| 
-||| 
-|||
-|||
-
-
-### Dependencies
-
-| Dependency | Description |
-| ------ | ------ |
-||| 
-||| 
-|||
-|||
-|||
